@@ -16,8 +16,7 @@
 - [Usage](#usage)  
 - [Notebook Walkthrough](#notebook-walkthrough)  
 - [Results & Evaluation](#results--evaluation)  
-- [Future Work](#future-work)  
-- [License](#license)  
+- [Future Work](#future-work)
 
 ---
 
